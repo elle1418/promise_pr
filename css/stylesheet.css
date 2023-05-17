@@ -1,0 +1,8 @@
+.icon-notifications {
+  width: 122px;
+  height: 40px;
+  padding: 8 0;
+  cursor: pointer;
+  border: 1px solid orange;
+  border-radius: 20px;
+}
